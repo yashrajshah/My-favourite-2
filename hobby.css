@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient;
+    background-color:white;
+    text-align: center;
+}
+
+img {
+    width: 270px;
+    border-radius: 75%;
+}
+
+h1 {
+    text-shadow: 2px 2px #7FFFD4;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: centre;
+}
+p{
+    font-size:65px;
+}
+#contact iframe
+{
+    width: 100%;
+}
